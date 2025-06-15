@@ -1,0 +1,27 @@
+# Compiled executables
+*.exe
+*.o
+*.obj
+
+# Build directories
+src/build/
+build/
+
+# Database files
+data/voting.db
+data/elections.txt
+data/users.txt
+
+# IDE files
+.vscode/
+*.vcxproj
+*.sln
+*.user
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
