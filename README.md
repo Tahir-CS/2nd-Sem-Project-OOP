@@ -222,9 +222,6 @@ Muhammad TAhir
 - Windows Console API for color support
 - C++ community for best practices
 
-## 📸 Screenshots
-
-*Add screenshots of your colorful console interface here*
 
 ## 🔮 Future Enhancements
 
